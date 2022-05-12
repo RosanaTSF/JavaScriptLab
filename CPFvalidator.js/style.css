@@ -1,40 +1,4 @@
 .formulario {
-    background-color: #f615a7;
-    color: #050505;
-    margin: 0;
-    font-family: 'Quicksand';
-  }
-  
-  body.dark-mode {
-    background-color: #000401;
-    color: #020303;
-  }
-  
-  main {
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  footer {
-    width: 100%;
-    background-color: #000205;
-    padding: 100px;
-    color: #121616;
-    position: fixed;
-    bottom: 0;
-    text-align: center;
-    font-weight: 400;
-  }
-  
-  footer.dark-mode {
-    background-color: #3508e9;
-    color: #000401;
-  }
-
-  
-
-
+  margin-top: 5%;
+  background-color: black;
+}
