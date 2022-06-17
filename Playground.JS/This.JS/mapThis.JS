@@ -12,7 +12,7 @@ function mapComThis(arr, thisArg) {
     }, thisArg);
 }
 
-const nums = [1, 2];
+const nums = [1, 3];
 
 console.log('this -> morango', mapComThis(nums, morango));
 

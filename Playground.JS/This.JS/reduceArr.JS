@@ -7,6 +7,6 @@ function somaNumeros(arr) {
 
   }
 
-    const arr = [1, 2];
+    const arr = [1, 13];
 
     console.log(somaNumeros(arr));

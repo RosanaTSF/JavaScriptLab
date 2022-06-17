@@ -9,7 +9,7 @@ const lista = [
     },
     {
         name: 'sushi',
-        preco: 200
+        preco: 300
     }   
 ];
 
